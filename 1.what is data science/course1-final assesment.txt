@@ -1,0 +1,62 @@
+q1)Introduce yourself and share with your peers your background and any experience you have with data science. (1 mark)
+
+Hello everybody,
+This is Shubham from India.
+I am a computer science engineering undergrad.
+My preferred programming language is python.
+During my last internship i had hands on experience with few of the methodologies of data science.
+Currently i am working on a project to develop smart recommendation systems.
+I am taking this course to know my interest further in the field of data science so that i can narrow my domains clearly and can then work towards my goal.
+
+q2)Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
+
+First, data science is not a software engineering piece of work. That is, data science is not about building products or product features or systems or any related fancy things.
+
+Second, data science is not a visualization piece of work. Creating the cool visual is neither the end goal nor the beginning part of how a data scientist works. Needless to say, data science is not about creating visually impactful infographics.
+
+Third, data science is not a scientific piece of work. In particular, data scientists don't work in the academia. It is the industry's particular requirements and the business markets' call that makes the job of data scientist needed. Data scientists usually don't publish papers, and neither is the paper or book publishing business part of any data scientists' daily concerns.
+
+Data science it's a thing that encapsulates some programming skills, some statistical readiness, some visualization techniques, and, last but not least, a lot of business senses. The kind of business sense that I in particular care about is the ability and willingness, sometimes eagerness, to translate any business questions into questions answerable using currently or forthcomingly available data within one's reach. In fact, it takes a special way of connecting all the dots in the random world full of data most of which you may not find immediately useful to make a working data scientist.
+
+Data Scientist is the person who connects the dots between the business world and the data world. Similarly, data science is the craft that a data scientist utilizes to make this happen.
+
+q3)As discussed in the videos and the reading material, data science can be applied to problems across different industries. What industry are you passionate about and would like to pursue a data science career in? (1 mark)
+
+Data science has been effective in tackling many real-world problems and is being increasingly adopted across industries to power more intelligent and better-informed decision-making.
+Increased use of machine and demand of computers have made the need of intelligent systems to increase.
+
+My preferred industries to work would be in:
+Retail
+There are many ways retailers can use big data and analytics to keep their shoppers coming back for more. For instance, retailers can use big data and analytics to create personal and relevant shopping experiences that make their customers highly satisfied and more prone to making purchase decisions
+
+       2. Media and Entertainment 
+
+Consumers now expect rich media in different formats as and when they want it on a variety of devices. Collecting, analyzing, and utilizing these consumer insights is now a challenge that data science is stepping in to tackle. Data science is being used to leverage social media and mobile content and understand real-time, media content usage patterns. With data science techniques, companies can better create content for different target audiences, measure content performance, and recommend on-demand content.
+
+q4)Based on the videos and the reading material, what are the eight main components of a report that would be delivered at the end of a data science project? (5 marks)
+
+The ten main components of a report that would be delivered at the end of a data science project are:INTRODUCTION
+
+1.Cover page followed by the title, names of authors, their affiliations, and contacts, name of the institutional publisher (if any), and the date of publication
+
+2. Table of contents contains a list of topics sub-topics, charts, graph and other pictorial information used in the report.
+
+3. Abstract or summary of the report.
+
+4. Introductory section which contains gently introduced to the subject matter and written in easily understandable format.
+
+BODY OF REPORT
+
+5. Data Section: Include written descriptions of data and follow with relevant spreadsheets or variables in the data source.
+
+6. Methodology Section — Contains research methods and data sources used in the report.
+
+7. Analysis Section — Explain what we analyzed. Include any charts here.
+
+8. Result Section followed by a discussion section. Describe the results of your analysis in the result section. The discussion section is where you rely on the power of narrative to enable numbers to communicate the thesis to your readers.
+
+CONCLUSION
+
+9. Conclusion Section: Concluding the overall report, outcomes of the report, application of the research in future.
+
+10.References and acknowledgement section. Appendix is optional 
